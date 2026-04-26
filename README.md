@@ -7,8 +7,7 @@ This project uses a **Random Forest Classifier** and provides an interactive UI 
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed link here — Streamlit Cloud / Render)*
-
+👉 https://adarsh07a-customer-churn-prediction-app-emcxjp.streamlit.app/
 ---
 
 ## 📌 Features
